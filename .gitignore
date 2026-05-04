@@ -1,0 +1,50 @@
+# --- Generated Folders (Ignore these) ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+.utmp/
+
+# --- IDE & System (Ignore these) ---
+.vs/
+.idea/
+.gradle/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.log
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+
+# --- Assets to Ignore (But keep the folder) ---
+# We ignore build artifacts, but keep everything else in /Assets/
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.blend1
+*.blend1.meta
+
+# --- Special Plugin Ignores ---
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
